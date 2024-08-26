@@ -1,5 +1,5 @@
 # Wide-bandwidth electrographic characterisation of seizures in rat models of epilepsy using graphene micro-transistors
-### UCL Queen Square Institute of Neurology – MSc Clinical Neuroscience
+### UCL Queen Square Institute of Neurology – MSc Clinical Neuroscience (Distinction)
 
 ## Motivation
 In this thesis, I demonstrate the value of incorporating infraslow frequency activity (< 0.1 Hz) in seizure onset zone (SOZ) localisation with two rat models of chronic epilepsy (kainic acid and tetanus toxin), and another rat model of acute seizure (picrotoxin); and demonstrate the ability of two-generations of graphene solution-gated field-effect transistors (gSGFETs) in acquiring wide-bandwidth electrophysiological recordings.
